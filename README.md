@@ -7,4 +7,4 @@ CIRCUITS:
 ![m2](https://user-images.githubusercontent.com/63573906/117758839-58a82e00-b240-11eb-855a-7144bd5866c1.PNG)
 
 
-![IMG20210511104018_00](https://user-images.githubusercontent.com/63573906/117762571-10d8d500-b247-11eb-98a3-7691776dd11f.jpg)
+
